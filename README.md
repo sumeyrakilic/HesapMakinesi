@@ -1,2 +1,2 @@
-# HESAP-MAKINESI-FINAL-ODEV
-sümeyra kılıç 231252032 dijital oyun tasarımı final ödevi
+# Microsoft Form üzerinden Java kullanılarak yapılmış fonksiyonel bir hesap makinesi uygulamasıdır.
+
